@@ -1,0 +1,28 @@
+#button {
+    padding: 20px 35px;
+    overflow:hidden;
+}
+#button li {
+    display: inline-block;
+}
+#button li a {
+    font-family: Buxton Sketch;
+    font-size:20px;
+    text-decoration: none;
+    float:left;
+    padding: 15px;
+    background-color: #003366;
+    color: #fff;
+}
+#button li a:hover {
+    background-color: black;
+    margin-top:-1px;
+    padding-bottom:10px;
+}
+#button li ul li {
+    display: inline-block;
+}
+nav{
+    margin: 10px auto;
+    text-align: center;
+}

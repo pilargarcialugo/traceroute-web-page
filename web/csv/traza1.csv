@@ -1,0 +1,14 @@
+source,target
+  1    <1 ms     1 ms    <1 ms
+  2    39 ms    28 ms    30 ms
+  3    14 ms    13 ms    14 ms
+  4    15 ms    12 ms    14 ms
+  5    19 ms    25 ms    21 ms
+  6     *        *        *   
+  7    53 ms    52 ms    52 ms
+  8    52 ms    51 ms    50 ms
+  9     *        *        *   
+ 10    49 ms    50 ms    63 ms
+ 11    52 ms    57 ms    50 ms
+ 12    52 ms    52 ms    53 ms
+ 13    52 ms    50 ms    49 ms

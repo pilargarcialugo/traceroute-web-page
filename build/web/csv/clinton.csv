@@ -1,0 +1,20 @@
+source,target,edgeNumber
+"Clinton '92","Clinton Admin",1
+"Edwards '04","Kerry '04",1
+"Dean '04","Kerry '04",1
+"Kerry '04","Clinton '08",2
+"Obama '08","Obama '12",1
+"Obama '08","Obama '12",1
+"Obama '12","Priorities USA",1
+"Obama '12","Center for Amer Progress",1
+"Obama Admin","Obama '12",1
+"Obama Admin","Obama '12",1
+"Obama Admin","Priorities USA",1
+"Center for Amer Progress","Priorities USA",1
+"Sen Clinton","Clinton State Dept",1
+"Sen Clinton","Clinton '08",1
+"Sen Clinton","Clinton '08",1
+"Clinton State Dept","Clinton Found",1
+"Clinton State Dept","Clinton Found",2
+"Clinton State Dept","Clinton Found",3
+"Clinton State Dept","Clinton Found",4
